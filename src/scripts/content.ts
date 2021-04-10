@@ -9,7 +9,7 @@ let mutationObserver: MutationObserver = new MutationObserver(() => {
 
 		let comment = element.querySelector('.sc-173ztwo-0')?.textContent;
 		
-		if (comment && comment.indexOf(HAPPYBUKURO_MESSAGE) != -1) {
+		if (comment && comment.indexOf(HAPPYBUKURO_MESSAGE) !== -1) {
 			element.setAttribute('style', 'display: none;');
 		}
 	});
