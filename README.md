@@ -1,5 +1,9 @@
 # Mildom Happybukuro Blocker
 
+Mildomのサービス終了決定に伴いArchiveとします。
+
+----
+
 Google Chrome拡張機能。Mildomのコメント欄に出る「ハッピー袋ありがとう！」を非表示にするだけ。
 
 ----
@@ -9,6 +13,6 @@ Google Chrome拡張機能。Mildomのコメント欄に出る「ハッピー袋�
 
 ----
 
-[Mildom Happybukuro Blocker \- Chrome ウェブストア](https://chrome.google.com/webstore/detail/mildom-happybukuro-blocke/nalijcinfgbggifmijmghbjmadejgboa)
+~~[Mildom Happybukuro Blocker \- Chrome ウェブストア](https://chrome.google.com/webstore/detail/mildom-happybukuro-blocke/nalijcinfgbggifmijmghbjmadejgboa)~~
 
 ----
